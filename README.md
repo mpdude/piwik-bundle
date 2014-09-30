@@ -17,7 +17,7 @@ Simply add the following to your composer.json (see http://getcomposer.org/):
 
     "require" :  {
         // ...
-        "webfactory/piwik-bundle": "~1.0"
+        "webfactory/piwik-bundle": "~2.0"
     }
 
 And enable the bundle in `app/AppKernel.php`:
